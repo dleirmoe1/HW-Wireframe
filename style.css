@@ -1,0 +1,126 @@
+body {
+	background-color: #777;
+	color: #ebebeb;
+	width:960px;
+
+}
+
+
+header{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height: 50px;
+	width: 960px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+	margin-left:100px;
+	margin-top:5px;
+	color:black;
+}
+
+nav{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height: 50px;
+	width: 960px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+	margin-left:100px;
+	margin-top:5px;
+	color:black;
+}
+
+
+section{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height:200px;
+	width:495px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+	margin-left: 100px;
+	margin-top: 5px;
+	color:black;	
+}
+
+
+article{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	/*height:200px;*/
+	width:300px;
+	padding:20px;
+	margin:10px;
+	background-color: #777;
+	margin-left: 100px;
+	margin-top: 5px;
+	color:black;	
+
+}
+
+.h-group {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height:10px;
+	width:240px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+/*	margin-left: 100px;
+*/	margin-top: 5px;
+	color:black;
+}
+
+p{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height:10px;
+	width:240px;
+	padding:20px;
+	background-color:white;
+
+	margin:10px;
+	/*margin-left: 100px;*/
+	margin-top: 5px;
+
+	color:black;
+}
+
+}
+
+aside{
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size:18px;
+	text-align:center;
+	height: 50px;
+	width: 455px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+	margin-left:100px;
+	margin-top:5px;
+	color:black;
+}
+
+footer{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height: 50px;
+	width: 960px;
+	padding:20px;
+	margin:10px;
+	background-color:white;
+	margin-left:100px;
+	margin-top:5px;
+	color:black;
+}
